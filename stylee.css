@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://static9.depositphotos.com/1000423/1127/i/600/depositphotos_11273053-stock-photo-young-waitress-with-an-empty.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+  }
+  
+  input[type="number"] {
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  #tipAmount,
+  #totalAmount,
+  #splitAmount {
+    font-weight: bold;
+  }
